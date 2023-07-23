@@ -1,4 +1,4 @@
-# Example-of-README.md
+# Example of README.md
 ##Creation of repository for the needs of exercise
 *text in italics*
 **text in bold**
