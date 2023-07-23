@@ -6,5 +6,5 @@
 *1
 *2
 *3
-(link repository){}
+(link repository){https://github.com/PanagiotisApostolou/Example-of-README.md/tree/main}
 !{github logo}(https://imgur.com/gallery/STGf0)
